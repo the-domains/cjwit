@@ -1,0 +1,28 @@
+name: CJWit
+favicon: null
+layout_spectrum: 0.9900417192839086
+typography_spectrum: 0.5760218682698905
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9001289021689445
+  lightness: 0.24935790756717324
+  saturation: 0.9176587734837085
+  rhythmicContrast: 0.2677199733443558
+purpose: []
